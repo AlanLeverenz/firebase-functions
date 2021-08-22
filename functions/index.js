@@ -1,4 +1,6 @@
 const functions = require("firebase-functions");
+// const admin = require("firebase-admin");
+// admin.initializeApp();
 
 // http request 1
 // endpoint request
